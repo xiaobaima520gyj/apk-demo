@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2b7f4d9-8a0a-4540-96aa-254ca73cfe89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JiaguDemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4nyuKnnxaR06RYDsTUpw9rmIb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/tool" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/tool" />
+      <recent name="$PROJECT_DIR$/source/aar" />
+      <recent name="$PROJECT_DIR$/source/apk" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JiaguMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JiaguMain" />
+      <module name="JiaguDemo.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JiaguMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2b7f4d9-8a0a-4540-96aa-254ca73cfe89" name="Default Changelist" comment="" />
+      <created>1586003992167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586003992167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="41" key="#Project_Structure" timestamp="1586004165940">
+      <screen x="0" y="23" width="1280" height="705" />
+    </state>
+    <state x="240" y="41" key="#Project_Structure/0.23.1280.705@0.23.1280.705" timestamp="1586004165940" />
+    <state x="357" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586007915186">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state x="357" y="185" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.706@0.23.1280.706" timestamp="1586007915186" />
+    <state width="1238" height="302" key="GridCell.Tab.0.bottom" timestamp="1586011779770">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.bottom/0.23.1280.706@0.23.1280.706" timestamp="1586011779770" />
+    <state width="1238" height="302" key="GridCell.Tab.0.center" timestamp="1586011779770">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.center/0.23.1280.706@0.23.1280.706" timestamp="1586011779770" />
+    <state width="1238" height="302" key="GridCell.Tab.0.left" timestamp="1586011779769">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.left/0.23.1280.706@0.23.1280.706" timestamp="1586011779769" />
+    <state width="1238" height="302" key="GridCell.Tab.0.right" timestamp="1586011779770">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="302" key="GridCell.Tab.0.right/0.23.1280.706@0.23.1280.706" timestamp="1586011779770" />
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1586009635332">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.23.1280.706@0.23.1280.706" timestamp="1586009635332" />
+    <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1586009635332">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.center/0.23.1280.706@0.23.1280.706" timestamp="1586009635332" />
+    <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1586009635331">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.left/0.23.1280.706@0.23.1280.706" timestamp="1586009635331" />
+    <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1586009635332">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.right/0.23.1280.706@0.23.1280.706" timestamp="1586009635332" />
+    <state x="149" y="23" width="982" height="705" key="SettingsEditor" timestamp="1586004309597">
+      <screen x="0" y="23" width="1280" height="705" />
+    </state>
+    <state x="149" y="23" width="982" height="705" key="SettingsEditor/0.23.1280.705@0.23.1280.705" timestamp="1586004309597" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1586009169072">
+      <screen x="0" y="23" width="1280" height="706" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1280.706@0.23.1280.706" timestamp="1586009169072" />
+    <state x="319" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1586004328456">
+      <screen x="0" y="23" width="1280" height="705" />
+    </state>
+    <state x="319" y="208" key="com.intellij.ide.util.TipDialog/0.23.1280.705@0.23.1280.705" timestamp="1586004328456" />
+  </component>
+</project>
